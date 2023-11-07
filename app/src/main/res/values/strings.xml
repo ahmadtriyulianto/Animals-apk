@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">RecyclerView_Ahmad_32602100014</string>
+
+    <string name="keterangan_default">Artikel</string>
+    <string name="About">About</string>
+    <string name="grid">Grid</string>
+    <string name="name">Ahmad Tri Yulianto</string>
+    <string name="email">ahmadtriyulianto28@gmail.com</string>
+    <string name="description">Descriksi Singkat</string>
+    <string name="detail">Detail</string>
+    <string name="animals_name">Nama Hewan</string>
+
+    <string-array name="animals_name">
+        <item>Anjing</item>
+        <item>Ayam</item>
+        <item>Beruang Madu</item>
+        <item>Cenderawasih</item>
+        <item>Gorila</item>
+        <item>Harimau</item>
+        <item>Kambing</item>
+        <item>Kelinci</item>
+        <item>Kuda</item>
+        <item>Sapi</item>
+    </string-array>
+    <string-array name="description">
+        <item>Anjing memiliki nama latin Canis lupus familiaris. </item>
+        <item>Ayam memiliki nama latin Gallus gallus domesticus. </item>
+        <item>Beruang madu memiliki nama latin Helarctos malayanus. </item>
+        <item>Burung Cenderawasih adalah anggota famili Paradisaeidae dari ordo Passeriformes. </item>
+        <item>Gorila memiliki nama latin Pseudogorilla Elliot. </item>
+        <item>Harimau memiliki nama latin Panthera tigris. </item>
+        <item>Kambing ternak memiliki nama latin Capra aegagrus hircus. </item>
+        <item>Kelinci (Kuilu) adalah hewan mamalia dari famili Leporidae. </item>
+        <item>Kuda memiliki nama latin Equus caballus atau us ferus caballus. </item>
+        <item>Sapi adalah hewan ternak anggota famili Bovidae dan subfamili Bovinae. </item>
+    </string-array>
+    <string-array name="detail">
+        <item>Anjing (Canis lupus familiaris) adalah hewan mamalia yang telah mengalami domestikasi dari serigala sejak 15.000 tahun yang lalu, bahkan kemungkinan sudah sejak 100.000 tahun yang lalu berdasarkan bukti genetik berupa penemuan fosil dan tes DNA. Penelitian lain mengungkap sejarah domestikasi anjing yang belum begitu lama. Anjing dianggap mempunyai kecerdasan yang cukup tinggi menurut penelitian ilmiah dan bukti-bukti lapangan. Tingkat kecerdasan anjing bergantung pada ras dan masing-masing anjing secara individu. </item>
+        <item>Ayam (Gallus gallus domesticus) adalah binatang unggas yang biasa dipelihara untuk dimanfaatkan daging, telur, dan bulunya. Ayam peliharaan berasal dari domestikasi ayam hutan merah (ayam bangkiwa, Gallus gallus) yang hidup di India. Namun demikian, pengujian molekular menunjukkan kemungkinan sumbangan plasma nutfah dari G. sonneratii, karena ayam hutan merah tidak memiliki sifat kulit warna kuning yang menjadi salah satu ciri ayam peliharaan. </item>
+        <item>Beruang madu (Helarctos malayanus) termasuk familia Ursidae dan merupakan jenis paling kecil dari kedelapan jenis beruang yang ada di dunia. Beruang ini adalah fauna khas provinsi Bengkulu sekaligus dipakai sebagai simbol dari provinsi tersebut. Beruang madu juga merupakan maskot dari kota Balikpapan. Beruang madu hidup di hutan primer, hutan sekunder dan sering juga di lahan pertanian, mereka biasanya berada di pohon pada ketinggian 2 sampai 7 meter dari tanah, dan suka mematahkan cabang-cabang pohon atau membuatnya melengkung untuk membuat sarang. </item>
+        <item>Burung Cenderawasih adalah anggota famili Paradisaeidae dari ordo Passeriformes. Cenderawasih biasanya ditemukan di Indonesia seperti di bagian Timur Papua, Papua Nugini, pulau-pulau Selat Torres, dan Australia Timur. Ukuran burung Cenderawasih mulai dari Cenderawasih raja pada 50 gram dan 15 cm hingga Cenderawasih paruh-sabit Hitam pada 110 cm dan Cenderawasih manukod jambul-bergulung pada 430 gram. </item>
+        <item>Gorila (Pseudogorilla Elliot) adalah jenis primata yang terbesar. Makanan gorila terdiri dari sayuran, walaupun kadang juga makan serangga. Karena itu gorila dapat digolongkan sebagai binatang omnivora. Gorila berasal dari hutan tropis di Afrika. 97 sampai 98% DNA gorila identik dengan DNA manusia. Gorila adalah binatang yang mempunyai tingkat kepandaian tinggi. Beberapa penyelidikan menunjukkan bahwa gorila bisa berkomunikasi dengan menggunakan bahasa sandi. Gorila bisa hidup sampai 50 tahun di kebun binatang, sedangkan di alam liar, gorila biasanya mencapai usai 35 tahun. </item>
+        <item>Harimau (Panthera tigris) adalah spesies kucing terbesar yang masih hidup dari genus Panthera. Harimau memiliki ciri loreng yang khas pada bulunya, berupa garis-garis vertikal gelap pada bulu oranye, dengan bulu bagian bawah berwarna putih. Harimau adalah hewan teritorial dan umumnya merupakan pemangsa soliter yang penyendiri, tetapi tetap memiliki sisi sosial. Mereka tetap tinggal di area-area yang berdekatan, untuk mendukung kebutuhan makanan dan membesarkan keturunannya. </item>
+        <item>Kambing ternak (Capra aegagrus hircus) merupakan salah satu subspesies yang dipelihara atau dijinakkan dari kambing liar Asia Barat Daya dan Eropa Timur. Kambing merupakan anggota dari keluarga Bovidae dan bersaudara dengan biri-biri karena keduanya tergolong dalam sub famili Caprinae. Terdapat lebih 300 jenis kambing yang berbeda-beda. Kambing sudah dibudidayakan manusia kira-kira 8000 hingga 9000 tahun yang lalu. Biasanya, kambing hidup berkelompok 5 sampai 20 ekor. </item>
+        <item>Kelinci (Kuilu) adalah hewan mamalia dari famili Leporidae, yang dapat ditemukan di banyak bagian bumi. Kelinci berkembang biak dengan cara beranak yang disebut vivipar. Dulunya, hewan ini adalah hewan liar yang hidup di Afrika hingga ke daratan Eropa. Pada perkembangannya, tahun 1912, kelinci diklasifikasikan dalam ordo Lagomorpha. Ordo ini dibedakan menjadi dua famili, yakni Ochtonidae (jenis pika yang pandai bersiul) dan Leporidae (termasuk jenis kelinci terwelu). </item>
+        <item>Kuda (Equus caballus atau us ferus caballus) adalah salah satu dari sepuluh spesies modern mamalia dari genus Equus. Sejak dahulu hewan ini merupakan salah satu hewan peliharaan yang berfungsi secara ekonomis dan memiliki nilai historis. Kuda juga memegang peranan penting dalam pengangkutan orang dan barang selama ribuan tahun. Kuda dapat ditunggangi oleh manusia dengan menggunakan sadel dan dapat pula digunakan untuk menarik sesuatu, seperti kendaraan beroda, atau bajak. Pada beberapa daerah, kuda juga digunakan sebagai sumber makanan. Walaupun peternakan kuda diperkirakan telah dimulai sejak tahun 4500 SM. </item>
+        <item>Sapi adalah hewan ternak anggota famili Bovidae dan subfamili Bovinae. Sapi dipelihara terutama untuk dimanfaatkan susu dan dagingnya sebagai pangan manusia. Hasil sampingannya seperti kulit, jeroan, tanduk, dan kotorannya juga dimanfaatkan untuk berbagai keperluan manusia. Di sejumlah tempat, sapi juga dipakai sebagai penggerak alat transportasi, pengolahan lahan tanam (bajak), dan alat industri lain (seperti peremas tebu). </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/anjing</item>
+        <item>@drawable/ayam</item>
+        <item>@drawable/beruang_madu</item>
+        <item>@drawable/cenderawasih</item>
+        <item>@drawable/gorila</item>
+        <item>@drawable/harimau</item>
+        <item>@drawable/kambing</item>
+        <item>@drawable/kelinci</item>
+        <item>@drawable/kuda</item>
+        <item>@drawable/sapi</item>
+    </integer-array>
+    <integer-array name="foto">
+        <item>@drawable/foto</item>
+    </integer-array>
+    <string name="pindah_Activity">Pindah Activity</string>
+</resources>
